@@ -1,1 +1,1 @@
-# Friday_python_bot (Voice Assistance)
+# Friday_python_bot (Voice Assistant)
